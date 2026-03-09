@@ -46,7 +46,12 @@ I design and build the data infrastructure that powers real-time analytics, AI/M
 
 ### 🗄️ Databases
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure SQL Managed Instance](https://img.shields.io/badge/Azure%20SQL%20Managed%20Instance-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
 
 ### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
