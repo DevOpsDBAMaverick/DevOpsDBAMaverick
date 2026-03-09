@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:garyscoles@gmail.com"><img src="https://img.shields.io/badge/Email-garyscoles%40gmail.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/gary-coles-a0a8a739a/"><img src="https://img.shields.io/badge/LinkedIn-Gary%20Coles-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gary-coles-a0a8a739a"><img src="https://img.shields.io/badge/LinkedIn-Gary%20Coles-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/DevOpsDBAMaverick"><img src="https://img.shields.io/badge/GitHub-DevOpsDBAMaverick-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Location-Bedfordshire%2C%20UK-1F497D?style=flat-square&logo=google-maps&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20To-Permanent%20%26%20Contract%20Roles-28a745?style=flat-square"/>
@@ -56,6 +56,8 @@ I design and build the data infrastructure that powers real-time analytics, AI/M
 
 ### 📊 Analytics & BI
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![SSAS](https://img.shields.io/badge/SSAS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 
 ### 🔄 DevOps & Delivery
@@ -98,5 +100,5 @@ RAG Pipelines      │  ETL/ELT            │  Real-time Streaming │  Delta L
 ---
 
 <p align="center">
-  <i>Open to Senior Data Architect, Principal Data Architect, and Lead Data Engineer roles — permanent or contract — remote/hybrid, UK-based.</i>
+  <i>Open to Senior Data Architect, Principal Data Architect, and Lead Data Engineer roles — permanent or contract — remote only, UK-based.</i>
 </p>
