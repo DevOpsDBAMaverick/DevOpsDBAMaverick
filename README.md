@@ -15,6 +15,7 @@
 
 Senior Data Architect with **15+ years** delivering enterprise-scale cloud data platforms across **Azure, AWS, and GCP**.  
 I design and build the data infrastructure that powers real-time analytics, AI/ML workloads, and enterprise governance — end to end, from architecture to delivery.
+Managing Director of www.pgflare.com - one stop solution to your Postgresql pain points.
 
 - 📈 **40% platform performance improvement** via cloud-native Kafka/Spark streaming architecture
 - 💰 **27% infrastructure cost reduction** through advanced SQL Server optimisation strategies
