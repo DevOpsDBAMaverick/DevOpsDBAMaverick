@@ -108,3 +108,6 @@ RAG Pipelines      │  ETL/ELT            │  Real-time Streaming │  Delta L
 <p align="center">
   <i>Open to Senior Data Architect, Principal Data Architect, and Lead Data Engineer roles — permanent or contract — remote only, UK-based.</i>
 </p>
+<p align="center">
+  <i>&#10084; Buy me a coffee? &#10084; https://revolut.me/gcoles78</i>
+</p>
